@@ -1,0 +1,1 @@
+1. Hay que establecer en cada Folder o packete, el archivo y su clase que será en punto de ejeucción de ese paquete. Por ejemplo, en el Folder screenshot, establecer a App, como archivo  principal de ejecución de ese folder/paquete
